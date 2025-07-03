@@ -57,5 +57,7 @@ To get player start position in {x, y} format, do
 local pos = levelObject.data.playerStartPos
 ```
 
+### NOT A FINAL VERSION, WILL BE A FUTURE SUPPORT!!! 
+
 ## Contact me in case of any problems  
 Instagram: https://www.instagram.com/dn_brnk/
